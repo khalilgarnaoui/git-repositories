@@ -108,6 +108,12 @@
                     transition: 0.1s all ease-in-out;
                 }
 
+                ::placeholder {
+                    /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    color: black;
+                    opacity: 0.4; /* Firefox */
+                }
+
                 .search-input:focus {
                     box-shadow: #353b48 0 2px 8px 0;
                     transition: 0.1s all ease-in-out;
