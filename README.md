@@ -15,6 +15,9 @@ git clone https://github.com/khalilgarnaoui/git-repositories.git
 
 ### `5) Open http://localhost:3000 to find the project`
 
+## Run the deployed app
+You can visit the deployed app using this link https://git-reposi.herokuapp.com/ 
+
 ## How to run the test suite
 
 ### `3) npm test`
@@ -32,6 +35,8 @@ git clone https://github.com/khalilgarnaoui/git-repositories.git
 - It also helped me discover the official github API which can be very useful for future projects.
 - Plus, it made me discover and research the testing libraries such as enzyme.
 - Finally, I think it is a good way to get more knowledge about the good practices used in MVST.
+
+
 
 
 
