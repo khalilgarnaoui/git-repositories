@@ -5,7 +5,7 @@ import User from './Components/User';
 import OtherRoute from './Components/OtherRoute'
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-function App() {
+export function App() {
     return (
         <div className="App" >
             <BrowserRouter>
